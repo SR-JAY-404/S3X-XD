@@ -1,2 +1,2 @@
-import Vishal
-Vishal.error()
+import vishal
+vishal.error()
