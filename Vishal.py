@@ -1,1 +1,2 @@
 import vishal
+Vishal.error()
