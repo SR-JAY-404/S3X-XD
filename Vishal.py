@@ -1,2 +1,0 @@
-import vishal
-vishal.vishal()
