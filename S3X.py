@@ -10,10 +10,10 @@ os.system("git pull")
 def Run():
         bit = platform.architecture()[0]
         if bit == '64bit':
-            from s3x import welcome
+            from s3x import s3x
             welcome()
         elif bit == '32bit':
-            from s3x import welcome
+            from s3x import s3x
             welcome()
         else:
             exit('\033[1;31m[●] Connection & Network Error ❌')
